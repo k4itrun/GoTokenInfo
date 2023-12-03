@@ -1,5 +1,6 @@
-Get information about a discord token
+# Go Token Info
 
+Get information about a discord token
 ```
 go run main.go
 ```
